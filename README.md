@@ -1,5 +1,5 @@
 # 💫 About Me:
-** Hi, I’m Samuel Kivairu (HexSentinel) 👋<br>I’m a data-driven developer with a strong focus on ethical hacking, AI engineering, and building systems that protect people rather than exploit them.<br><br>My work lives at the intersection of cybersecurity, statistics, and software engineering. I enjoy breaking systems to understand them, then rebuilding them stronger. From machine learning pipelines and AI-powered prediction models to web apps built with React and Firebase, I’m obsessed with turning theory into tools that solve real problems.<br><br>I’m especially interested in:<br><br>Ethical hacking and defensive security research<br><br>AI and machine learning for agriculture, healthcare, and social impact<br><br>Data analysis, statistical modeling, and explainable AI<br><br>Building scalable, clean, and secure software systems<br><br>I believe technology should be guided by integrity. My long-term goal is to become a guardian in the cybersecurity and AI space—learning deeply, building responsibly, and using my skills to serve communities and protect critical systems.<br><br>Currently learning, building, and sharpening my edge—one commit at a time.
+Hi, I’m Samuel Kivairu (HexSentinel) 👋<br>I’m a data-driven developer with a strong focus on ethical hacking, AI engineering, and building systems that protect people rather than exploit them.<br><br>My work lives at the intersection of cybersecurity, statistics, and software engineering. I enjoy breaking systems to understand them, then rebuilding them stronger. From machine learning pipelines and AI-powered prediction models to web apps built with React and Firebase, I’m obsessed with turning theory into tools that solve real problems.<br><br>I’m especially interested in:<br><br>Ethical hacking and defensive security research<br><br>AI and machine learning for agriculture, healthcare, and social impact<br><br>Data analysis, statistical modeling, and explainable AI<br><br>Building scalable, clean, and secure software systems<br><br>I believe technology should be guided by integrity. My long-term goal is to become a guardian in the cybersecurity and AI space—learning deeply, building responsibly, and using my skills to serve communities and protect critical systems.<br><br>Currently learning, building, and sharpening my edge—one commit at a time.
 
 
 ## 🌐 Socials:
@@ -25,4 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=samkiva&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**
+
