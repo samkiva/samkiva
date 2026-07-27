@@ -29,4 +29,4 @@ Building AI tools for healthcare and agriculture across Africa.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Kivairu-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/samuel-kivairu)
 [![Email](https://img.shields.io/badge/Email-kivairusamuel9409@gmail.com-D14836?style=flat&logo=gmail)](mailto:kivairusamuel9409@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=flat&logo=firefox)](https://kivairu-samuel.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio Kivairu Samuel Website-06B6D4?style=flat&logo=firefox)](https://kivairu-samuel.vercel.app/)
